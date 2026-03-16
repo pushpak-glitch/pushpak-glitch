@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <p align="left">
-<a href="mailto:aP7050552704@gmail.com?subject=Reaching%20out%20to%20you&body=Hi,%20I%20want%20to%20enquire%20about..." 
+<a href="mailto:P7050552704@gmail.com?subject=Reaching%20out%20to%20you&body=Hi,%20I%20want%20to%20enquire%20about..." 
    rel="noopener" 
    target="_blank">
   <img align="center" src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" 
