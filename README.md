@@ -22,7 +22,7 @@
    rel="noopener" 
    target="_blank">
   <img align="center" src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" 
-       alt="askhay20" 
+       alt="pushpak-glitch" 
        height="40" 
        width="40" />
 </a>
