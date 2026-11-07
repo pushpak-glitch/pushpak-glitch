@@ -52,10 +52,11 @@
 ### 🚀 Featured projects
 | Project | What it does | Stack | Result |
 |---|---|---|---|
+| [**SMS Spam Classifier**](https://github.com/pushpak-glitch/sms-spam-classifier) | NLP spam detection: TF-IDF word + char n-grams, 4-model comparison, tuning and a low-false-alarm threshold | Python, scikit-learn | Test F1 0.958, PR-AUC 0.988; only 0.44% of real messages flagged |
 | [**Customer Churn Prediction**](https://github.com/pushpak-glitch/customer-churn-prediction) | Predicts which telecom customers will leave, explains why with SHAP, and turns it into a retention plan | Python, scikit-learn, SHAP | ROC-AUC 0.84; top 20% risk group holds 49% of churners |
 | [**SQL Business Analysis**](https://github.com/pushpak-glitch/sql-business-analysis) | 13 business questions on a music-store database: revenue, markets, catalogue, customer value | SQL (SQLite), CTEs, window functions | Found 43% of the catalogue never sold; top 5 markets = 59% of revenue |
 | [**Sales Dashboard**](https://github.com/pushpak-glitch/sales-dashboard) | Interactive KPI dashboard + Excel KPI report on Superstore sales | Streamlit, Plotly, Excel | Showed discounts above 20% lose $135K in profit |
-| [**TechBazaar Retail Analytics**](https://github.com/pushpak-glitch/TechBazaar-retail-analytics-project) | 38K orders of electronics retail analysed for trends, city/category mix and margin drivers | Python, pandas, SQL | Festive Oct–Nov peak; margin falls from 30% to 12.5% with discounting |
+| [**TechBazaar Retail Analytics**](https://github.com/pushpak-glitch/TechBazaar-retail-analytics-project) | 38K orders of electronics retail analysed for trends, city/category mix and margin drivers | Python, pandas, SQL | Margin falls from 30% to 12.5% at 20% off with no lift in units; Delhi +6.7% YoY |
 | [**HealthExpense-AI**](https://github.com/pushpak-glitch/HealthExpense-AI) | Predicts hospital bills from diagnosis, stay length and severity | scikit-learn, Gradient Boosting | R² 0.96, MAE ≈ ₹3.5K on held-out patients |
 | [**MHPI – Mumbai House Price Intelligence**](https://github.com/pushpak-glitch/MHPI-Mumbai-House-Price-Intelligence-) | Regression model for property prices from location, size and amenities | scikit-learn, Random Forest / GBM | R² 0.99 on a (synthetic) 10K-listing dataset |
 
